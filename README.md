@@ -1,9 +1,6 @@
 # find_it
 
-The project is about finding the missing things it solve the problem of not any platform do this maybe some social
-media platform do this like Facebook but there is no united platform and Facebook don’t have any united page you can
-find what you want on it but it is just a separated pages on the Facebook so we solve this problem by our project and
-filter no filter on Facebook you can search about anything you want and you will find it.
+The project is about finding the missing things it solves the problem of not having any platform doing this maybe some social media platforms do this like Facebook but there is no united platform and Facebook doesn't have any united page you can find what you want on it but it is just a separated page on Facebook so we solve this problem by our project and filter no filter on Facebook you can search about anything you want and you will find it
 
 ## Getting Started
 
